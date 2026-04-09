@@ -1,0 +1,98 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47707269,What Game Engines Know About Data That Databases Forgot,technology,36,20,speckx,2026-04-09 19:23:20,0.5405405405405406,False
+47706141,Research-Driven Agents: What Happens When Your Agent Reads Before It Codes,technology,36,7,hopechong,2026-04-09 19:23:20,0.1891891891891892,False
+47700972,Reallocating $100/Month Claude Code Spend to Zed and OpenRouter,technology,210,165,kisamoto,2026-04-09 19:23:20,0.7819905213270142,True
+47702541,A WebGPU implementation of Augmented Vertex Block Descent,technology,98,9,juretriglav,2026-04-09 19:23:20,0.09090909090909091,False
+47702196,"Show HN: CSS Studio. Design by hand, code by agent",technology,110,80,SirHound,2026-04-09 19:23:20,0.7207207207207207,False
+47704881,The Vercel plugin on Claude Code wants to read your prompts,technology,233,83,akshay2603,2026-04-09 19:23:20,0.3547008547008547,True
+47684811,One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot,technology,32,38,meryll_dindin,2026-04-09 19:23:20,1.1515151515151516,False
+47701233,Claude mixes up who said what,technology,374,306,sixhobbits,2026-04-09 19:23:20,0.816,True
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,technology,389,46,WerWolv,2026-04-09 19:23:20,0.11794871794871795,True
+47660434,C# in Unity 2026: Writing more modern code,technology,66,80,hacker_13,2026-04-09 19:23:20,1.1940298507462686,False
+47687273,Git commands I run before reading any code,technology,2171,463,grepsedawk,2026-04-09 19:23:20,0.21316758747697975,True
+47706113,"Desalination Technology, by the Numbers",technology,13,0,Brajeshwar,2026-04-09 19:23:20,0.0,False
+47703573,FBI Extracted Deleted Signal Messages Saved in iPhone Notification Database,technology,42,15,bjord,2026-04-09 19:23:20,0.3488372093023256,False
+47700460,Ask HN: What are you building that's not AI related?,technology,103,125,meander_water,2026-04-09 19:23:20,1.2019230769230769,False
+47706482,"AI, Unemployment and Work",technology,8,3,speckx,2026-04-09 19:23:20,0.3333333333333333,False
+47696035,John Deere to pay $99M in right-to-repair settlement,technology,364,119,CharlesW,2026-04-09 19:23:20,0.32602739726027397,True
+47689237,US cities are axing Flock Safety surveillance technology,technology,739,416,giuliomagnifico,2026-04-09 19:23:20,0.5621621621621622,True
+47693679,I've been waiting over a month for Anthropic to respond to my billing issue,technology,407,188,nickvec,2026-04-09 19:23:20,0.46078431372549017,True
+47679121,Project Glasswing: Securing critical software for the AI era,technology,1506,814,Ryan5453,2026-04-09 19:23:20,0.5401459854014599,True
+47656518,Your File System Is Already A Graph Database,technology,180,75,alxndr,2026-04-09 19:23:20,0.4143646408839779,False
+47689174,MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU,technology,321,56,chrsw,2026-04-09 19:23:20,0.17391304347826086,True
+47698067,You Can Just Print an Air Purifier,technology,35,6,zdw,2026-04-09 19:23:20,0.16666666666666666,False
+47674606,Show HN: Unicode Steganography,technology,54,13,PatrickVuscan,2026-04-09 19:23:20,0.23636363636363636,False
+47703498,White-Collar Workers Are Rebelling Against AI – 80% Refuse Adoption Mandates,technology,22,6,sarimkx,2026-04-09 19:23:20,0.2608695652173913,False
+47685945,We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2,technology,211,210,bundie,2026-04-09 19:23:20,0.9905660377358491,True
+47692043,Muse Spark: Scaling towards personal superintelligence,worldnews,381,361,chabons,2026-04-09 19:23:22,0.9450261780104712,True
+47677853,GLM-5.1: Towards Long-Horizon Tasks,worldnews,613,260,zixuanlimit,2026-04-09 19:23:22,0.4234527687296417,True
+47680124,IPv6 is the only way forward,worldnews,102,306,quaintdev,2026-04-09 19:23:22,2.970873786407767,False
+47701971,AI and remote work is a disaster for junior software engineers,worldnews,17,7,gpi,2026-04-09 19:23:22,0.3888888888888889,False
+47676557,Moving fast in hardware: lessons from lab to $100M ARR,worldnews,114,26,rryan,2026-04-09 19:23:22,0.22608695652173913,False
+47670981,"Three hundred synths, 3 hardware projects, and one app",worldnews,122,19,ductionist,2026-04-09 19:23:22,0.15447154471544716,False
+47695647,The AI Great Leap Forward,worldnews,120,56,jodah,2026-04-09 19:23:22,0.4628099173553719,False
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,56,18,zdw,2026-04-09 19:23:22,0.3157894736842105,False
+47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,worldnews,323,160,Bender,2026-04-09 19:23:22,0.49382716049382713,True
+47691313,"Databricks co-founder wins prestigious ACM award, says 'AGI is here already'",worldnews,7,4,salkahfi,2026-04-09 19:23:22,0.5,False
+47662945,Show HN: GovAuctions lets you browse government auctions at once,worldnews,317,90,player_piano,2026-04-09 19:23:22,0.2830188679245283,True
+47629021,Global Physics Photowalk: 2025 winners revealed,worldnews,27,1,ibobev,2026-04-09 19:23:22,0.03571428571428571,False
+47704700,"'Snoopy', 'Adolf' and 'Password': The Hungarian Government Passwords Exposed",worldnews,12,3,lschueller,2026-04-09 19:23:22,0.23076923076923078,False
+47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,978,621,zaikunzhang,2026-04-09 19:23:22,0.634320735444331,True
+47677952,The Blueprint of a North Korean Attack on Open-Source,worldnews,31,12,brene,2026-04-09 19:23:22,0.375,False
+47683613,ICE acknowledges it is using powerful spyware,worldnews,68,8,dnemmers,2026-04-09 19:23:22,0.11594202898550725,False
+47690049,Amazon rewards loyal Kindle devotees by closing the book on old e-readers,worldnews,37,23,beardyw,2026-04-09 19:23:22,0.6052631578947368,False
+47694303,The demise of software engineering jobs has been greatly exaggerated,worldnews,19,5,ryan_j_naughton,2026-04-09 19:23:22,0.25,False
+47692291,"Digital Hopes, Real Power: How the Arab Spring Fueled a Global Surveillance Boom",worldnews,12,0,hn_acker,2026-04-09 19:23:22,0.0,False
+47697980,"Account Verification for Windows Hardware Program Begins October 16, 2025",worldnews,5,0,TiredOfLife,2026-04-09 19:23:22,0.0,False
+47697711,The World Needs More Software Engineers – Box CEO,worldnews,7,4,alwinaugustin,2026-04-09 19:23:22,0.5,False
+47691860,Supply chain nightmare: How Rust will be attacked and how to mitigate attacks,worldnews,10,0,randomint64,2026-04-09 19:23:22,0.0,False
+47663743,"Show HN: Moon simulator game, ray-casting",sports,87,19,JKCalhoun,2026-04-09 19:23:24,0.2159090909090909,False
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,108,31,pruz,2026-04-09 19:23:24,0.28440366972477066,False
+47672778,Breaking the console: a brief history of video game security,sports,96,26,sprado,2026-04-09 19:23:24,0.26804123711340205,False
+47654629,The Harvard Library Passport,sports,40,15,fi-le,2026-04-09 19:23:24,0.36585365853658536,False
+47661065,"The team behind a pro-Iran, Lego-themed viral-video campaign",sports,166,261,tantalor,2026-04-09 19:23:24,1.562874251497006,False
+47689550,"LLM plays an 8-bit Commander X16 game using structured ""smart senses""",sports,15,0,russellharper,2026-04-09 19:23:24,0.0,False
+47664186,"Battle for Wesnoth: open-source, turn-based strategy game",sports,538,163,akyuu,2026-04-09 19:23:24,0.30241187384044527,True
+47640728,Show HN: A game where you build a GPU,sports,957,187,Jaso1024,2026-04-09 19:23:24,0.1951983298538622,True
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,sports,307,192,keepamovin,2026-04-09 19:23:24,0.6233766233766234,True
+47637377,LÖVE: 2D Game Framework for Lua,sports,414,217,cl3misch,2026-04-09 19:23:24,0.5228915662650603,True
+47685704,How the Vision Pro Rollout Inflamed Tensions at Apple,sports,16,4,f_allwein,2026-04-09 19:23:24,0.23529411764705882,False
+47639727,"When legal sports betting surges, so do Americans' financial problems",sports,223,148,pseudolus,2026-04-09 19:23:24,0.6607142857142857,True
+47694234,Strait of Hormuz appears to remain closed amid conflicting US and Iran briefings,sports,20,4,gridder,2026-04-09 19:23:24,0.19047619047619047,False
+47633676,"Extra usage credit for Pro, Max, and Team plans",sports,64,62,angst,2026-04-09 19:23:24,0.9538461538461539,False
+47681453,"Sports bets on prediction markets ruled to be ""swaps,"" exempt from state laws",sports,19,6,nradov,2026-04-09 19:23:24,0.3,False
+47704443,Study found that young adults have grown less hopeful and more angry about AI,science,95,134,elsewhen,2026-04-09 19:23:26,1.3958333333333333,False
+47622717,Study investigates how mass distribution of baseball bat affects performance,science,24,17,Magi604,2026-04-09 19:23:26,0.68,False
+47627217,Running out of disk space in production,science,219,128,romes,2026-04-09 19:23:26,0.5818181818181818,True
+47650502,Computational Physics (2nd Edition) (2025),science,184,22,teleforce,2026-04-09 19:23:26,0.11891891891891893,False
+47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,56,0,tosh,2026-04-09 19:23:26,0.0,False
+47656303,Case study: recovery of a corrupted 12 TB multi-device pool,science,116,64,salt4034,2026-04-09 19:23:26,0.5470085470085471,False
+47648404,My Google Workspace account suspension,science,369,221,zenincognito,2026-04-09 19:23:26,0.5972972972972973,True
+47629485,A case study in testing with 100+ Claude agents in parallel,science,68,54,thejash,2026-04-09 19:23:26,0.782608695652174,False
+47691409,Reproducibility and robustness of economics and political science research,science,5,0,lamename,2026-04-09 19:23:26,0.0,False
+47694520,Gmail / Google Workspace Incendent Underway,science,8,2,vapemaster,2026-04-09 19:23:26,0.2222222222222222,False
+47705413,Show HN: I built a Cargo-like build tool for C/C++,entertainment,66,66,randerson_112,2026-04-09 19:23:28,0.9850746268656716,False
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",entertainment,34,22,behat,2026-04-09 19:23:28,0.6285714285714286,False
+47704259,"Show HN: Guruka.com – free guided mediations. No signup, private, works offline",entertainment,9,1,eummm,2026-04-09 19:23:28,0.1,False
+47702791,Show HN: 41 years sea surface temperature anomalies,entertainment,137,45,willmeyers,2026-04-09 19:23:28,0.32608695652173914,False
+47676561,Teardown of unreleased LG Rollable shows why rollable phones aren't a thing,entertainment,118,55,DamnInteresting,2026-04-09 19:23:28,0.46218487394957986,False
+47666398,Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes,entertainment,61,18,meribold,2026-04-09 19:23:28,0.2903225806451613,False
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,entertainment,131,144,latchkey,2026-04-09 19:23:28,1.0909090909090908,False
+47696562,Show HN: Is Hormuz open yet?,entertainment,439,192,anonfunction,2026-04-09 19:23:28,0.43636363636363634,True
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,entertainment,61,11,rvitorper,2026-04-09 19:23:28,0.1774193548387097,False
+47692661,Show HN: TUI-use: Let AI agents control interactive terminal programs,entertainment,48,37,dreamsome,2026-04-09 19:23:28,0.7551020408163265,False
+47657204,Show HN: We built a camera only robot vacuum for less than 300$ (Well almost),entertainment,106,56,indraneelpatil,2026-04-09 19:23:28,0.5233644859813084,False
+47661038,Show HN: I built a navigation app that displays weather along the route,entertainment,55,24,vkatluri,2026-04-09 19:23:28,0.42857142857142855,False
+47689319,Show HN: Skrun – Deploy any agent skill as an API,entertainment,57,11,frizull,2026-04-09 19:23:28,0.1896551724137931,False
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,778,235,sam-bee,2026-04-09 19:23:28,0.30166880616174585,True
+47705383,CDC delays publishing report showing Covid vaccine benefits,entertainment,17,2,ceejayoz,2026-04-09 19:23:28,0.1111111111111111,False
+47696558,Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs,entertainment,15,4,guitarlimeo,2026-04-09 19:23:28,0.25,False
+47681112,Show HN: An interactive map of Tolkien's Middle-earth,entertainment,285,68,frasermarlow,2026-04-09 19:23:28,0.23776223776223776,True
+47680309,Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon,entertainment,229,27,MediaSquirrel,2026-04-09 19:23:28,0.11739130434782609,True
+47674027,Show HN: A cartographer's attempt to realistically map Tolkien's world,entertainment,162,31,intofarlands,2026-04-09 19:23:28,0.1901840490797546,False
+47699105,Show HN: Image to Music AI – Turn Any Photo into an Original Soundtrack,entertainment,5,3,airobus,2026-04-09 19:23:28,0.5,False
+47691174,Show HN: Explore the Silk Roads through an interactive map,entertainment,47,6,intofarlands,2026-04-09 19:23:28,0.125,False
+47666024,Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS,entertainment,464,199,MattHart88,2026-04-09 19:23:28,0.42795698924731185,True
+47697679,I built a tool to let you export your X bookmarks and categorize them,entertainment,16,8,xarchive,2026-04-09 19:23:28,0.47058823529411764,False
+47655408,Show HN: I built a tiny LLM to demystify how language models work,entertainment,902,134,armanified,2026-04-09 19:23:28,0.14839424141749724,True
+47636579,Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V,entertainment,115,32,noone_youknow,2026-04-09 19:23:28,0.27586206896551724,False
